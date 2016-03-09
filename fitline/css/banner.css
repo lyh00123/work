@@ -1,0 +1,15 @@
+.banner-top{position:relative;overflow:hidden;width: 960px;margin:0 auto;}
+.banner-top .logo{margin-left: 44px;padding-top: 20px;padding-bottom: 31px;}
+.banner-top .search{position:absolute;right: 47px;top:52px;height: 34px;width: 226px;border: 1px solid #e5e5e5}
+.banner-top .search .s{line-height: 34px; padding-left: 19px;}
+.banner-top .search img{float: right;margin-top: -25px;}
+.banner-top .tab a{display:block;text-align:center;line-height: 57px;color: white;text-decoration: none;font-size: 12px;font-weight: bold;}
+.banner-top .tab a:hover{background-color: #de5500;border-top-left-radius: 8px;border-top-right-radius: 8px;}
+.banner-top .tab .taba,.tabb,.tabc{float: left;margin-left: 8px;width: 312px;height: 57px;background-image: url(../images/banner-bg.png);border-top-left-radius: 8px;border-top-right-radius: 8px;}
+.banner-bottom{background-image: url(../images/banner-bg.png);}
+.bottom-inner{overflow:hidden;width: 960px;margin:0 auto;/*background-color: blue;*/}
+.bottom-inner .yellow{float: right;padding-top: 20px;padding-bottom: 20px;}
+.bottom-inner .word{float: left;}
+.bottom-inner .word h1{padding-left: 89px;padding-top: 89px;font-size: 50px; color: white;font-weight: bold;}
+.bottom-inner .word h2{padding :20px 0  57px 69px;font-size: 13px;color: white;}
+.bottom-inner .more{padding-left: 70px;}

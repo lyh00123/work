@@ -1,0 +1,5 @@
+.banner-right{position: absolute;right:-50px;top: -50px;}
+.banner-inner{width: 940px;margin: 0 auto;position: relative;}  
+.banner .welcome{font-size: 24px;color: #ffffff;padding-top: 65px;margin-left: 30px;}
+.banner .free{font-size: 13px;color:#7f7f7f;padding-top: 26px;margin-left: 30px;}
+.banner-left img{padding-top: 27px;margin-left: 30px;}

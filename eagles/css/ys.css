@@ -1,0 +1,7 @@
+.tab{width: 100px;height: 200px;background-color: red;}
+@-moz-document url-prefix(){
+	.tab{background-color: orange;}
+}
+@media screen and(-webkit-min-device-poxel-ratio:0){
+	.tab{width: 100px;background-color: green;}
+}

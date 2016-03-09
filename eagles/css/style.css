@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;}
+.clearfix:before,.clearfix:after{content: " ";display: "table";}
+.clearfix{clear: both;}
+.wrap{margin: 0 auto;}
+.header{height: 143px;background-color: #000000;}
+.header img {margin-top: 18px;}
+.header-inner{width: 970px;margin: 0 auto;}
+.navbar{height: 25px;float: right;}
+.navbar ul{list-style: none;}
+.navbar ul li{float: left; margin-left:30px;}
+.navbar ul li a{font-size: 13px;text-decoration: none;color:#7f7f7f;font-weight: bold;}
+.banner{height: 348px;background-image: url(../images/banner-bg.png);}
+.footer{height: 150px;background-color: #0e0e0e;}
+.footer img{float: right;margin-top: 30px;margin-right: 175px;}
+.eagles{width: 970px;margin: 0 auto;}
+.eagles .troo{padding-top: 55px;}
+.eagles .troo,.by{text-align: center;font-size:15px;color: #7f7f7f;}

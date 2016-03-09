@@ -1,0 +1,25 @@
+obody{font:12px/150% Arial,Verdana,"\5b8b\4f53";}
+
+.main{background-image: url(../images/main-bg.png);}
+.main-inner{width: 940px;margin:0 auto;overflow: hidden;}
+.main-top{height: 180px;padding-top: 40px;}
+.main-top .join{float:left;}
+.main-top .tree,.summer{float:left;margin-left: 20px;}
+.content{width: 620px;float:left;}
+.main-inner .nt{font-size: 32px;color: white; padding-top: 54px;}
+.content .date{padding-top: 21px;}
+.content .lorem{margin-top:-50px;}
+.content .lorem,.stet{padding-left:81px;font-size: 14px;color: #7f7f7f;}
+.content .stet{padding-top: 24px;}
+.content .cmore{padding-top: 29px;padding-left: 81px;}
+.content .tmore{padding-bottom: 60px;}
+.scontent .tmore{float: left;padding-top: 29px;padding-left: 81px;}
+.scontent .sdate,.child,.clita{margin-top: 62px;}
+.scontent .child{margin-left: 21px;}
+.scontent .clita{line-height:25px;margin-left:320px;margin-top:-155px;font-size: 15px;color: #7f7f7f;}
+.sidebar{width: 300px;float:right; padding-top: 40px;}
+.sidebar ul{list-style:none; padding-left: 20px; padding-top: 20px;}
+.sidebar ul li{height:30px;font-weight: bold;padding-top: 8px;font-style: italic;border-bottom: 1px #3c3d3d dashed;}
+.sidebar ul .kasd{border-bottom: none;}
+.sidebar ul li a{line-height:30px;font-size:12px;color: white;text-decoration: none;background-image:url(../images/t.png);background-repeat: no-repeat;background-position:left center;padding-left: 10px;}
+.sidebar .end{padding-top: 39px;}

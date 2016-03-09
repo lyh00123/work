@@ -1,0 +1,26 @@
+body{font:12px/150% Arial,Verdana,"\5b8b\4f53";}
+.main{background-image: url(../images/gallery-main-bg.png);}
+.main-inner{overflow:hidden;width: 940px;margin:0 auto;/*background-color: red;*/}
+.main-top{height: 180px;padding-top: 40px;}
+.main-top .join{float:left;}
+.main-top .tree,.summer{float:left;margin-left: 20px;}
+.content{float:left;width: 599px;}
+.content .our{padding-top: 51px;font-size: 27px;color: white;}
+.content-left .bag{padding-top: 30px;}
+.content-left .gb,.fire{margin-left: 29px;}
+.content-top{margin-top: 40px;}
+.gb,.fire,.child,.mood,.water,.blue{float: left;}
+.content-bottom .water,.blue{margin-left: 29px;}
+.content-bottom{padding-top: 30px;}
+.mood,.water,.blue{padding-top: 30px;}
+.gmore{padding-top: 30px;padding-bottom: 60px;}
+.sidebar{float:right;width: 300px;padding-left: 5px;}
+.sidebar .update,.archive{height: 48px;width: 300px;margin-top: 40px;background-color:#0e0f0f;border-radius: 3px;}
+.update ,.archive p{font-size: 22px;color: white;padding-left: 22px;line-height: 48px;}
+.sidebar .con{padding-left: 20px;padding-top: 33px;font-size:15px;color:#7f7f7f;}
+.sidebar .stet{padding-left: 20px;padding-top: 22px;font-size:15px;color:#7f7f7f;}
+.imore{padding-top:30px;padding-left: 20px;}
+.sidebar ul{list-style:none; padding-left: 20px; padding-top: 20px;}
+.sidebar ul li{height:30px;font-weight: bold;padding-top: 8px;font-style: italic;border-bottom: 1px #3c3d3d dashed;}
+.sidebar ul .gub{border-bottom: none;}
+.sidebar ul li a{line-height:30px;font-size:12px;color: white;text-decoration: none;background-image:url(../images/t.png);background-repeat: no-repeat;background-position:left center;padding-left: 10px;}

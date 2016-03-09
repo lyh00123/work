@@ -1,0 +1,29 @@
+.clearfix:before,.clearfix:after{content: " ";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{zoom:1;clear: both;}
+@keyframes change{
+	0%{text-shadow: 0 0 0 #fff;}
+	100%{text-shadow: 3px 3px 20px #6f6f6f;}
+}
+@font-face{font-family: myFont;
+         	src:url(../font/every/grot_cb-webfont.eot),
+         		url(../font/every/grot_cb-webfont.ttf),
+         		url(../font/every/grot_cb-webfont.woff),
+         		url(../font/every/grot_cb-webfont.svg)
+         }
+body{font-size: 10px;}
+.wrap{width: 96%;margin:0 auto;/*border: 1px solid red;*/}
+header {border-bottom: 5px double #d6d5d5;}
+header div{width: 100%;height: 42px;background-image: url(../images/header-top_02.png);background-repeat: repeat-x;}
+header h1{font-family:myFont;margin-top: 32px;text-shadow:1px 2px 0 #dad7d7;font-size: 3.5em;color: #0d0c0c;}
+header  nav{width: 100%;height: 39px;margin:0 auto;display: table;margin-bottom :23px;margin-top: 30px;background-image: -webkit-linear-gradient(top,#fefefe,#e3e3e3);background-image: -moz-linear-gradient(top,#fefefe,#e3e3e3);/*border: 1px solid red;*/font-family:myFont;}
+header  nav ul {list-style: none;display: table-row;}
+header  nav ul li{display: table-cell;vertical-align: middle;}
+header  nav ul li:first-child{text-align: left;}
+header  nav ul li:last-child{text-align:right;}
+header  nav ul li a{text-decoration: none;font-size: 2.1em;color:#010001;}
+header  nav ul li a:hover{animation:change 1s infinite alternate;}
+header  nav ul li:nth-child(2n+1)>a{color:#fe0208;}
+footer {width:100%;margin: 0 auto;border-top: 5px double #d6d5d5;}
+footer  p{margin-top: 32px;font-size: 1.5em;color: #757474;text-align: center;font-family:myFont;} 
+footer div{margin-top: 35px;width: 100%;height: 42px;background-image: url(../images/footer-bottom_26.png);background-repeat: repeat-x;}
